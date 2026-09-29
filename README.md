@@ -29,6 +29,7 @@ employee data and generate useful HR insights.
 * `HR_Analytics_Dashboard.twbx` - Tableau packaged workbook
 * `Dataset/` - Dataset used for analysis
 * `screenshots/` - Dashboard screenshots
+* `HR Template/` - Dashboard Template
 
 ## 🖼️ Dashboard Preview
 
